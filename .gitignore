@@ -1,0 +1,5 @@
+dist/*
+dist
+typing
+node_modules
+typings

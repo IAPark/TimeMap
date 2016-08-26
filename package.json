@@ -1,0 +1,27 @@
+{
+  "name": "timemap",
+  "version": "1.0.0",
+  "description": "A map of the time to get from home to the surrounding area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAPark/TimeMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAPark/TimeMap/issues"
+  },
+  "homepage": "https://github.com/IAPark/TimeMap#readme",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  }
+}
